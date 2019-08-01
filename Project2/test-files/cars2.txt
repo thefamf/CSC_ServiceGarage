@@ -1,0 +1,16 @@
+R 3  HI-01345     Rhyne, Lauren 
+R 0 NC-122 Doe, John 
+e 2 NC-5678 Emerson, Jane
+R 1 VA-121A Henderson, William 
+R 2 VA-780912345 Towler, Francis 
+e 4 DC-0090 Harrison, Emily 
+R -1 NC-77011 Perry, Jo Ellen 
+R 2 NC-987Z11 Tetterton, James 
+e 0 PA-93P093300 Littleton, Christine
+R 0 NC-HAPPYCAMPER      Page, Kimberly
+R 1  MN-20134  McKeel, Robyn
+R 1   CA-A-*TAR Williams, James
+e 0 FL-09876   Peterson, Keith
+e 2  FL-457653 Fidler, Paul
+R 1    SC-0I033 Smith, Amos
+R 2  VIRG0122 Jones, Francis
